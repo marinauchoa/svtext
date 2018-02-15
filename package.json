@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/marinauchoa/svtext/issues"
   },
-  "homepage": "https://github.com/marinauchoa/svtext#readme"
+  "homepage": "https://github.com/marinauchoa/svtext#readme",
+  "dependencies": {
+    "sentiment-swedish": "^1.1.0"
+  }
 }
